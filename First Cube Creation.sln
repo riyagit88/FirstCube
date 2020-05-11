@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "First Cube Creation", "First Cube Creation\First Cube Creation.dwproj", "{6C936798-0AD3-47DA-BCFA-A725166C8C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C936798-0AD3-47DA-BCFA-A725166C8C74}.Development|Default.ActiveCfg = Development
+		{6C936798-0AD3-47DA-BCFA-A725166C8C74}.Development|Default.Build.0 = Development
+		{6C936798-0AD3-47DA-BCFA-A725166C8C74}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D54B3B8C-A8C4-4C92-8752-C34734F8B6FD}
+	EndGlobalSection
+EndGlobal
